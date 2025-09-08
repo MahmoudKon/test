@@ -1,0 +1,4 @@
+   <cac:PaymentMeans>
+      <cbc:PaymentMeansCode>42</cbc:PaymentMeansCode>
+      <cbc:InstructionNote>Returned items</cbc:InstructionNote>
+   </cac:PaymentMeans>

@@ -1,0 +1,53 @@
+{
+    "invoice_counter": "SET_COUNTER",
+    "id": "SET_COUNTER",
+    "invoice_number": "SET_NUMBER",
+    "transaction_number": "SET_COUNTER",
+    "transaction_type": "TRANSACTION_TYPE",
+    "uuid": "SET_UUID",
+    "document_type": "SET_DOC_TYPE",
+    "invoice_type": "SET_INVOICE_TYPE",
+    "issue_date": "SET_DATE",
+    "issue_time": "SET_TIME",
+    "parentInvoice": "SET_INVOICE_NUMBER",
+    "reference_id": "SET_INVOICE_NUMBER",
+    "invoice_identifier": "SET_INVOICE_ID",
+    "hash": "hash",
+    "sent_to_zatca": "sent_to_zatca",
+    "sent_to_zatca_status": "sent_to_zatca_status",
+    "signing_time": "signing_time",
+    "xml": "xml",
+    "items": [{
+        "id": "ITEM_ID",
+        "qty": "ITEM_QTY",
+        "quantity": "ITEM_QTY",
+        "sell_price": "ITEM_SELL_PRICE",
+        "price": "ITEM_SELL_PRICE",
+        "name": "ITEM_NAME",
+        "discount": 0,
+        "taxes": [{
+            "percentage": "ITEM_VAT",
+            "amount": "ITEM_VAT",
+            "category": "ITEM_CATEGORY",
+            "type": "",
+            "reason": ""
+        }],
+        "discounts": [{
+            "amount": 0,
+            "reason": ""
+        }]
+    }],
+    "client": {
+        "tax_number": "CLIENT_TRN",
+        "trn": "CLIENT_TRN",
+        "street_name": "CLIENT_STREET",
+        "address": "CLIENT_STREET",
+        "building_number": "1234",
+        "plot_identification": "123",
+        "city": "الرياض",
+        "city_name": "الرياض",
+        "postal_number": "00000",
+        "name": "CLIENT_NAME",
+        "country": "SA"
+    }
+}

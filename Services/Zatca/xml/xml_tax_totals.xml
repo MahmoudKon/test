@@ -1,0 +1,7 @@
+    <cac:TaxTotal>
+        <cbc:TaxAmount currencyID="SAR">SET_LINES_TAX_TOTAL</cbc:TaxAmount>
+    </cac:TaxTotal>
+    <cac:TaxTotal>
+        <cbc:TaxAmount currencyID="SAR">SET_LINES_TAX_TOTAL</cbc:TaxAmount>
+SET_TAX_LINES
+    </cac:TaxTotal>
